@@ -30,3 +30,6 @@ The data was generated in mouse cells.
 They also determined the RTC host proteins with the most impact on viral replication but whic were not essential for survival in non-infected cells.
 
 YouTube lecture by Britt Glaunsinger: [https://www.youtube.com/watch?v=8_bOhZd6ieM](https://www.youtube.com/watch?v=8_bOhZd6ieM)
+
+![sars test](/sars_test.png)
+
