@@ -1,0 +1,150 @@
+﻿No,Gene Name,Predicited Affilliation,Established CCV protein?,Known Affiliation,Type,Reference
+1,C10orf88*,AP1,New,AP1/AP2*,Coat,-
+2,FAM84B*,AP1,New,AP1*,Coat,-
+3,MLK4,AP1,New,-,Coat,-
+4,SNX24,AP1,New,-,Coat,-
+5,TRIM47,AP1,New,-,Coat,-
+6,VPS45,AP1,New,-,Coat,-
+7,BCL9L,AP1/AP2,New,-,Coat,-
+8,DERPC,AP1/AP2,New,-,Coat,-
+9,NCOA3,AP1/AP2,New,-,Coat,-
+10,PLEKHJ1,AP1/AP2,New,-,Coat,-
+11,STAMBPL1,AP1/AP2,New,-,Coat,-
+16,AAK1A,AP2,New,-,Coat,-1
+17,BIN3,AP2,New,-,Coat,-
+18,BMP2K*,AP2,New,AP2*,Coat,-
+19,FAM21A,AP2,New,-,Coat,-
+20,MAP3K7IP1,AP2,New,-,Coat,-
+21,MEA1,AP2,New,-,Coat,-
+22,REPS1*,AP2,New,AP2*,Coat,-2
+23,STAMBP,AP2,New,-,Coat,-
+25,PTPN23,AP2,New,-,Coat,-
+12,EIF2C2,AP1/AP2,New,-,Coat/RNA,-
+13,PUM1,AP1/AP2,New,-,Coat/RNA,-
+14,TNRC6A,AP1/AP2,New,-,Coat/RNA,-
+15,TNRC6B,AP1/AP2,New,-,Coat/RNA,-
+24,PUM2,AP2,New,-,Coat/RNA,-
+26,GRN,AP1,New,Cargo,Lumenal,-
+27,HSPA13,AP1,New,Cargo,Lumenal,-
+28,STX10,AP1,New,Cargo,SNARE,-
+29,ABCA2,AP1,New,Cargo,TMD,-
+30,ANKH,AP1,New,Cargo,TMD,-
+31,ATP7A,AP1,New,Cargo,TMD,-
+32,TSPAN13,AP1,New,Cargo,TMD,-
+33,FAM18B,AP1/AP2,New,Cargo,TMD,-
+34,ATP2C1,AP2,New,Cargo,TMD,-
+35,SCAMP2,AP2,New,Cargo,TMD,-
+36,HFE,AP2,New,Cargo,TMD,-
+37,GBE1,AP1,weak prediction,-,Coat,-
+38,LCHN,AP1,weak prediction,-,Coat,-
+39,RAB20,AP2,weak prediction,-,Coat,-
+40,SEC16A,AP2,weak prediction,-,Coat,-3
+41,SEC24B,AP2,weak prediction,-,Coat,-
+42,AFTPH,AP1,Yes,AP1,Coat,"Traub, 2005"
+43,AP1B1,AP1,Yes,AP1,Coat,"Traub, 2005"
+44,AP1G1,AP1,Yes,AP1,Coat,"Traub, 2005"
+45,AP1GBP1,AP1,Yes,AP1,Coat,"Traub, 2005"
+46,AP1M1,AP1,Yes,AP1,Coat,"Traub, 2005"
+47,AP1S1,AP1,Yes,AP1,Coat,"Traub, 2005"
+48,AP1S2,AP1,Yes,AP1,Coat,"Traub, 2005"
+49,AP1S3,AP1,Yes,AP1,Coat,"Traub, 2005"
+50,ARF1,AP1,Yes,AP1,Coat,"Traub, 2005"
+51,C4orf16,AP1,Yes,AP1,Coat,"Neubrand et al., 2005"
+52,CLINT1,AP1,Yes,AP1,Coat,"Traub, 2005"
+53,GGA2,AP1,Yes,AP1,Coat,"Traub, 2005"
+54,HEATR5B,AP1,Yes,AP1,Coat,"Traub, 2005"
+55,RAB4A,AP1,Yes,AP1,Coat,"Pagano et al., 2004"
+56,RAB4B,AP1,Yes,AP1,Coat,"Pagano et al., 2004"
+57,RABGEF1,AP1,Yes,AP1,Coat,"Mattera et al., 2003"
+58,SCYL2,AP1,Yes,AP1,Coat,"Borner et al., 2007"
+59,CLTA,AP1,Yes,AP1/AP2,Coat,"Traub, 2005"
+60,CLTB,AP1,Yes,AP1/AP2,Coat,"Traub, 2005"
+61,CLTC,AP1,Yes,AP1/AP2,Coat,"Traub, 2005"
+62,DNAJC6,AP1,Yes,AP1/AP2,Coat,"Traub, 2005"
+63,GAK,AP1,Yes,AP1/AP2,Coat,"Traub, 2005"
+64,PIK3C2A,AP1,Yes,AP1/AP2,Coat,"Domin et al., 2000; Gaidarov et al., 2001"
+65,DNM2,AP1/AP2,Yes,AP1/AP2,Coat,"Traub, 2005"
+66,HIP1R,AP1/AP2,Yes,AP1/AP2,Coat,"Traub, 2005"
+67,OCRL,AP1/AP2,Yes,AP1/AP2,Coat,"Choudhury et al., 2005"
+68,LDLRAP1,AP1,Yes,AP2,Coat,"Traub, 2005"
+69,TNK2,AP1,Yes,AP2,Coat,"Traub, 2005"
+70,GAPVD1,AP1,Yes,AP2,Coat,"Semerdjieva et al., 2008"
+71,PICALM,AP1/AP2,Yes,AP2,Coat,"Traub, 2005"
+72,AAK1,AP2,Yes,AP2,Coat,"Traub, 2009"
+73,AGFG1,AP2,Yes,AP2,Coat,"Traub, 2011"
+74,AP2A1,AP2,Yes,AP2,Coat,"Traub, 2005"
+75,AP2A2,AP2,Yes,AP2,Coat,"Traub, 2005"
+76,AP2B1,AP2,Yes,AP2,Coat,"Traub, 2005"
+77,AP2M1,AP2,Yes,AP2,Coat,"Traub, 2005"
+78,AP2S1,AP2,Yes,AP2,Coat,"Traub, 2005"
+79,ARRB2,AP2,Yes,AP2,Coat,"Traub, 2005"
+80,DAB2,AP2,Yes,AP2,Coat,"Traub, 2005"
+81,DENND1A,AP2,Yes,AP2,Coat,"Yoshimura et al., 2010"
+82,EPN1,AP2,Yes,AP2,Coat,"Traub, 2005"
+83,EPN2,AP2,Yes,AP2,Coat,"Traub, 2005"
+84,EPS15,AP2,Yes,AP2,Coat,"van Bergen En Henegouwen, 2009"
+85,EPS15L1,AP2,Yes,AP2,Coat,"van Bergen En Henegouwen, 2009"
+86,FCHO2,AP2,Yes,AP2,Coat,"Traub, 2011"
+87,HIP1,AP2,Yes,AP2,Coat,"Traub, 2005"
+88,ITSN1,AP2,Yes,AP2,Coat,"Traub, 2011"
+89,NECAP1,AP2,Yes,AP2,Coat,"Traub, 2005"
+90,NECAP2,AP2,Yes,AP2,Coat,"Traub, 2005"
+91,NUMB,AP2,Yes,AP2,Coat,"Traub, 2005"
+92,RALBP1,AP2,Yes,AP2,Coat,"Jullien-Flores et al., 2000"
+93,SMAP1,AP2,Yes,AP2,Coat,"Tanabe et al., 2005"
+94,SNX9,AP2,Yes,AP2,Coat,"Traub, 2005"
+95,STON2,AP2,Yes,AP2,Coat,"Traub, 2005"
+96,SYNJ1,AP2,Yes,AP2,Coat,"Traub, 2005"
+97,ARRB1,missed,Yes,AP2,Coat,"Traub, 2005"
+98,RAB5A,missed,Yes,AP2,Coat,"Stenmark, 2009"
+99,RAB5B,missed,Yes,AP2,Coat,"Stenmark, 2009"
+100,RAB5C,missed,Yes,AP2,Coat,"Stenmark, 2009"
+101,STX16,AP1,Yes/Probable,Cargo,SNARE,"Borner et al, 2006"
+102,STX6,AP1,Yes/Probable,Cargo,SNARE,"Borner et al, 2006"
+103,STX7,AP1,Yes/Probable,Cargo,SNARE,"Borner et al, 2006"
+104,STX8,AP1,Yes/Probable,Cargo,SNARE,"Borner et al, 2006"
+105,VAMP4,AP1,Yes,Cargo,SNARE,"Peden et al., 2001"
+106,VTI1A,AP1,Yes/Probable,Cargo,SNARE,"Borner et al, 2006"
+107,VTI1B,AP1,Yes,Cargo,SNARE,"Hirst et al., 2004"
+108,IGF2R,AP1,Yes,Cargo,TMD,"Robinson MS, 2004"
+109,M6PR,AP1,Yes,Cargo,TMD,"Robinson MS, 2004"
+110,SORT1,AP1,Yes,Cargo,TMD,"Hermey, 2009"
+111,VLDLR,AP1,Yes,Cargo,TMD,"Robinson MS, 2004"
+112,ARSA,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+113,ASAH1,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+114,CTSB,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+115,CTSC,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+116,CTSD,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+117,CTSZ,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+118,GLB1,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+119,GNS,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+120,HEXB,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+121,LIPA,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+122,MAN2B1,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+123,NEU1,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+124,PLBD2,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+125,PLOD1,AP1,Yes,Cargo,Lysosomal,"Sleat et al., 2008"
+126,PLOD2,AP1,Yes,Cargo,Lysosomal,"Sleat et al., 2008"
+127,PPGB,AP1,Yes,Cargo,Lysosomal,"Sleat et al., 2008"
+128,PSAP,AP1,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+129,DNASE2,AP1/AP2,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+130,EPDR1,AP1/AP2,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+131,TPP1,AP1/AP2,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+132,CTSL1,AP2,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+133,NPC2,AP2,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+134,PPT2,AP2,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+135,GGH,AP2,Yes,Cargo,Lysosomal,"Schröder et al., 2010"
+136,CLLD6,AP2,Yes/Probable,?,Coat,"McPherson, 2010"
+137,CLTCL1,AP1,Yes/Probable,AP1/AP2?,Coat,"Hood&Royle, 2009"
+138,DNMBP,AP1/AP2,Yes/Probable,AP1/AP2?,Coat,"Salazar et al., 2003"
+139,FAM109A,AP2,Yes/Probable,AP1/AP2?,Coat,"Noakes et al., 2011"
+140,FAM109B,AP1/AP2,Yes/Probable,AP1/AP2?,Coat,"Noakes et al., 2011"
+141,KIAA0196,AP2,Yes/Probable,AP2,Coat,"Schmid et al., 2006"
+142,NAPA,AP1,Yes/Probable,AP1/AP2?,Coat,"Swanton et al., 1998"
+143,NAPG,AP1,Yes/Probable,AP1/AP2?,Coat,"Swanton et al., 1998"
+144,NUMBL,AP2,Yes/Probable,AP2?,Coat,"Rasin et al., 2007"
+145,YIPF6,AP1/AP2,Yes/Probable,Cargo,TMD,"Borner et al, 2006"
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
